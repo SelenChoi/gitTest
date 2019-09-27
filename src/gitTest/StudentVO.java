@@ -29,4 +29,11 @@ public class StudentVO {
 		this.dept = dept;
 	}
 
+	@Override
+	public String toString() {
+		return "StudentVO [ID=" + ID + ", name=" + name + ", dept=" + dept + ", getID()=" + getID() + ", getName()="
+				+ getName() + ", getDept()=" + getDept() + ", getClass()=" + getClass() + ", hashCode()=" + hashCode()
+				+ ", toString()=" + super.toString() + "]";
+	}
+
 }
