@@ -31,6 +31,7 @@
 	<li>spring</li>
 	<li>DI</li>
 	<li>AOP</li>
+	<div>div 영역추가</div>
 </ul>
 </body>
 </html>
