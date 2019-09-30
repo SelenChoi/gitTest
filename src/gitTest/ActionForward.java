@@ -4,6 +4,6 @@ public class ActionForward {
 	private String path;
 	private boolean isRedirect;
 	
-	return ActionForward(){
+	public ActionForward(){
 	}
 }
